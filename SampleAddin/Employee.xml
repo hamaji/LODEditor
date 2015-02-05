@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<employees>
+  <employee>
+    <id>001</id>
+    <name>山田</name>
+    <age>34</age>
+  </employee>
+  <employee>
+    <id>002</id>
+    <name>佐藤</name>
+    <age>24</age>
+  </employee>
+  <employee>
+    <id>003</id>
+    <name>鈴木</name>
+    <age>30</age>
+  </employee>
+</employees>
